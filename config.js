@@ -42,10 +42,10 @@ global.linkz1 = "https://chat.whatsapp.com/FdP0znFDbNWKkleGN6bhxx"
 global.linkz2 = "https://chat.whatsapp.com/FdP0znFDbNWKkleGN6bhxx"
 
 //Bot theme media
-global.thum = fs.readFileSync("./Galery/theme/DNP77picture.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./Galery/theme/DNP77picture.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./Galery/theme/DNP77picture.jpg") //ur error pic
-global.thumb = fs.readFileSync("./Galery/theme/DNP77picture.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./Galery/theme/20220726_143341.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./Galery/theme/20220726_143341.jpg") //ur logo pic
+global.err4r = fs.readFileSync("./Galery/theme/20220726_143341.jpg") //ur error pic
+global.thumb = fs.readFileSync("./Galery/theme/20220726_143341.jpg") //ur thumb pic
 
 //database
 global.ntilinkytvid = []

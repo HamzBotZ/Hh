@@ -7,7 +7,7 @@ const chalk = require("chalk")
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = true //auto reading in gc (true to on, false to off)
-global.autoReadAll = false // auto reading in all pchat gc and status (true to on, false to off)
+global.autoReadAll = true // auto reading in all pchat gc and status (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
@@ -20,26 +20,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['994408465157'] //masukin no owner nya
-global.ownername = "ISI PULSA"
-global.ytname = "YT: ARY GAMZ" //ur yt chanel name
-global.socialm = "GitHub: arygamz" //ur github or insta name
-global.location = "Indonesia, Sumut, Sibolangit" //ur location
+global.owner = ['6288214989352'] //masukin no owner nya
+global.ownername = "IlhamGanteng"
+global.ytname = "YT: Hamz9999+" //ur yt chanel name
+global.socialm = "GitHub: HamzBotzzzzz" //ur github or insta name
+global.location = "Indonesia, Jawa, Bandung" //ur location
 
 //bot bombdy
-global.botname = "Arybotz-Md" //ur bot name
-global.websitex = "https://github.com/arygamz" //ur website
+global.botname = "ZxynnBotz" //ur bot name
+global.websitex = "https://github.com/HamzBotzzzzz" //ur website
 global.vidmenu = { url: 'https://k.top4top.io/m_2368l5agg1.mp4' } //gif and video menu
-global.packname = "Ary Bot Stickers\n\n\n\n\n\n\n🕊️🕊️ "
-global.author = "ARY GAMZ" 
-global.themeemoji = "🕊️"
+global.packname = "ZxynnBotz\n\n\n\n\n\n\n🕊️🕊️ "
+global.author = "IlhamGanteng" 
+global.themeemoji = "🐷"
 global.reactmoji = "🐣"
-global.ownertag = ['994408465157','6281264038909'] //ur owner tag
-global.ownernummenu = ['994408465157','994408465157'] //ur owner number in menu and all
-global.watermark = "Arybotz-MDv3." //ur watermark
-global.botscript = "https://github.com/arygamz/botnoenc"
-global.linkz1 = "https://chat.whatsapp.com/JWMl9LW5g0i0RSj7ophXAk"
-global.linkz2 = "https://chat.whatsapp.com/JWMl9LW5g0i0RSj7ophXAk"
+global.ownertag = ['6288214989352','79203890637'] //ur owner tag
+global.ownernummenu = ['6288213989352','6288214989352'] //ur owner number in menu and all
+global.watermark = "ZxynnBotz" //ur watermark
+global.botscript = "https://github.com/HamzBotzzzzz"
+global.linkz1 = "https://chat.whatsapp.com/FdP0znFDbNWKkleGN6bhxx"
+global.linkz2 = "https://chat.whatsapp.com/FdP0znFDbNWKkleGN6bhxx"
 
 //Bot theme media
 global.thum = fs.readFileSync("./Galery/theme/DNP77picture.jpg") //ur thumb pic
@@ -69,19 +69,19 @@ global.ntilink = []
 
 //omther
 global.lolhuman = "KaysaS"
-global.sessionName = "sessionnya"
+global.sessionName = "session"
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
     success: 'Done✓',
-    admin: 'This feature is only for admins!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This feature is only for owner',
-    group: 'This feature is only for groups!',
-    private: 'This feature is only for private chats!',
+    admin: 'Lu Admin? ',
+    botAdmin: 'Jujurly Bot Blm Admin',
+    owner: 'Lu Owner ?',
+    group: 'Mesti Ke Group Kita',
+    private: 'Pc Ngab',
     bot: 'This feature is only for bot',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
+    wait: 'Tunggu Sabarr',
+    linkm: 'Mana Link Nya??',
     error: 'Error!',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
